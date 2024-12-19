@@ -1,2 +1,1 @@
-# grocery
-This project for grocery store
+#Grocery Shopping Application
